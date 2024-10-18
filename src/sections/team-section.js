@@ -5,14 +5,11 @@ import SectionHeader from 'components/section-header';
 import TeamCard from 'components/team-card';
 import { FaFacebookF, FaDumpsterFire, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
-// import Member1 from 'assets/team/member-1.png';
-// import Member2 from 'assets/team/member-2.png';
-// import Member3 from 'assets/team/member-3.png';
-// import Member4 from 'assets/team/member-4.png';
+
 import Member5 from '../assets/team/member-5.png';
 import matt_pfp from '../assets/team/matt_pfp.png';
 import eshan_pfp from '../assets/team/eshan_pfp.png';
-import kris_pfp from './../assets/team/eshan_pfp.png';
+import kris_pfp from './../assets/team/kris_pfp.png';
 import tatsu_pfp from '../assets/team/tatsu_pfp.png';
 import julio_pfp from '../assets/team/julio_pfp.png';
 const data = [
