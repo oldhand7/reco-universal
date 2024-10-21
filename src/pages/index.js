@@ -28,7 +28,7 @@ export default function IndexPage() {
           <CoreFeature />
           <WorkFlow />
           {/* <Package /> */}
-          <TeamSection />
+
           <TestimonialCard />
         </Layout>
     </ThemeProvider>
