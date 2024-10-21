@@ -16,7 +16,7 @@ export default function Logo({ src, ...rest }) {
       }}
       {...rest}
     >
-      <Image src={WCC_logo_V3_small} alt='Reco creatives logo' />
+      
     </Link>
   );
 }
