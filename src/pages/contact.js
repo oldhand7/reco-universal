@@ -15,7 +15,6 @@ const ContactPage = () => {
         </a>
       </p>
 
-      
       <div style={{ margin: '30px auto', maxWidth: '500px', textAlign: 'left' }}>
         <h2 style={{ fontSize: '1.8em', marginBottom: '20px' }}>Send Us a Message</h2>
         <form
@@ -23,6 +22,10 @@ const ContactPage = () => {
           method="POST"
           style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}
         >
+          {/* FormSubmit uses hidden inputs to process messages */}
+          <input type="hidden" name="_subject" value="New Contact Form Submission" />
+          <input type="hidden" name="_captcha" value="false" />
+
           <input
             type="text"
             name="name"
