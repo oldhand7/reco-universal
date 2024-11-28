@@ -6,9 +6,5 @@ export default [
   {
     path: 'feature',
     label: 'Features',
-  },
-  {
-    path: 'testimonial',
-    label: 'Testimonials',
-  },
+  }
 ];

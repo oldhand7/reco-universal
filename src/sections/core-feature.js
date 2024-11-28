@@ -11,7 +11,7 @@ const data = {
   description:
     'Our software consultants assist our customers in selecting the right technology stacks for their solutions. Be it a programming language or a ready-to-use platform, we help businesses review technologies’ pros and cons before starting their projects.',
   btnName: 'Lets Go!',
-  btnURL: 'https://www.upwork.com/fl/~013d0e4b4b7e23859a',
+  btnURL: '#',
 };
 
 

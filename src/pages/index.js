@@ -29,7 +29,7 @@ export default function IndexPage() {
           <WorkFlow />
           {/* <Package /> */}
 
-          <TestimonialCard />
+          {/* <TestimonialCard /> */}
         </Layout>
     </ThemeProvider>
   );
