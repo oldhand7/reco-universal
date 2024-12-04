@@ -7,6 +7,7 @@ const ContactPage = () => {
       <h1 style={{ fontSize: '2.5em', marginBottom: '20px' }}>Contact Us</h1>
       <p style={{ fontSize: '1.5em', marginBottom: '10px' }}>
         <strong>Name:</strong> Pavlo Didushko
+        <strong>Name:</strong> Jarek Czerwinski
       </p>
       <p style={{ fontSize: '1.5em', marginBottom: '20px' }}>
         <strong>Email:</strong>{' '}
