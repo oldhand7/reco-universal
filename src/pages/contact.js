@@ -6,20 +6,20 @@ const ContactPage = () => {
     <div style={{ fontFamily: 'Arial, sans-serif', padding: '20px', textAlign: 'center' }}>
       <h1 style={{ fontSize: '2.5em', marginBottom: '20px' }}>Contact Us</h1>
       <p style={{ fontSize: '1.5em', marginBottom: '10px' }}>
-        <strong>Name:</strong>Jarek Czerwinski, Pavlo Didushko
+        <strong>Name:</strong>Jarek Czerwinski
         
       </p>
       <p style={{ fontSize: '1.5em', marginBottom: '20px' }}>
         <strong>Email:</strong>{' '}
-        <a href="mailto:pavlodidushko@gmail.com" style={{ color: '#007BFF', textDecoration: 'none' }}>
-          pavlodidushko@gmail.com
+        <a href="mailto:jarekczerwinski.motive@outlook.com" style={{ color: '#007BFF', textDecoration: 'none' }}>
+        jarekczerwinski.motive@outlook.com
         </a>
       </p>
 
       <div style={{ margin: '30px auto', maxWidth: '500px', textAlign: 'left' }}>
         <h2 style={{ fontSize: '1.8em', marginBottom: '20px' }}>Send Us a Message</h2>
         <form
-          action="https://formsubmit.co/pavlodidushko@gmail.com"
+          action="https://formsubmit.co/jarekczerwinski.motive@outlook.com"
           method="POST"
           style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}
         >
